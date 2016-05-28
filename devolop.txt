@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-add devolop.txt to remote devolop branch
-=======
-add devolop branch
->>>>>>> test
